@@ -1,4 +1,4 @@
-* [Listening Club Manual]()
+* [Listening Club Manual](README.md)
 * [Listening and Discussing]()
 * [Handling the Frisbee]()
 * [Contributing to a Vortex]()
