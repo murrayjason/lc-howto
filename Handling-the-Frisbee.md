@@ -10,3 +10,7 @@ When the frisbee holder tosses it to you (congrats!) and you accept, here’s ho
 6. Upload the archive again to an online listening portal. A good one to use is https://hearthis.at (MixCloud tends to identify known albums and delete them, so avoid MixCloud.) Again, send @kleptones a link to the upload location.
 7. On Sunday when we’re all finished listening to your pick, reveal its details on Twitter, using the #listeningclub hash tag. You might want to @ the artist themselves in your tweet, or include links to a bio, discography, or the album itself.
 8. Now you get to toss the frisbee to another member among those who participated. Base your pick on witticisms, antagonisms, months since they last held the frisbee, or whatever. It’s entirely up to you.
+
+----
+
+[To contribute to this chapter, fork this project](https://github.com/murrayjason/lc-howto)
