@@ -3,4 +3,4 @@
 
 ----
 
-[To contribute to this chapter, fork this project](https://github.com/murrayjason/lc-howto)
+To contribute to this chapter, start by forking [this project](https://github.com/murrayjason/lc-howto)
