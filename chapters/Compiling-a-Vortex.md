@@ -1,6 +1,6 @@
 # Compiling a Vortex
 
-<img alt = "Optical art (op art) in a radial pattern extending from a center point." src = "resources/vortex.png" width = "600px">
+<img alt = "Optical art (op art) in a radial pattern extending from a center point." src = "/resources/vortex.png" width = "600px">
 
 Compiling a vortex means, first and foremost, nagging and coercing #listeningclub members to submit. Submit *tracks*, you weirdo. And second, it means assembling those tracks into a (possibly coherent) single MP3 file for playback on the final Sunday of the month.
 

@@ -1,6 +1,6 @@
 # Handling the Frisbee
 
-<a href = "https://thelisteningclub.blogspot.com"><img alt = "Border collie gleefully catching a frisbee, way up in the air" src = "resources/frisbee_catch.png" width = "600px"></a>
+<a href = "https://thelisteningclub.blogspot.com"><img alt = "Border collie gleefully catching a frisbee, way up in the air" src = "/resources/frisbee_catch.png" width = "600px"></a>
 
 The **Frisbee** is Listening Club parlance for ownership of the coming Sunday’s music pick. At the end of one of our Sunday sessions, the Frisbee holder tosses it to another member. If that other member is you (🎉&nbsp;congrats!&nbsp;👏) and you accept, here’s how to handle it:
 
