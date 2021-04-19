@@ -6,7 +6,7 @@ Compiling a vortex means, first and foremost, nagging and coercing #listeningclu
 
 It’s performative art. It’s project management. It’s attention to detail.
 
-The starting point for a round of LC vortex is a musical theme for those submitted tracks. You inherit the theme that last month’s compiler prompted the LC masses to invent and agree on. Prompting becomes your job, before all’s said and done, in prep for next month’s vortex.
+The starting point for a round of LC vortex is a musical theme for those submitted tracks. You inherit the theme that last month’s compiler prompted the LC masses to invent and agree on. Theme prompting becomes your job, before all’s said and done, in prep for the vortex after yours.
 
 To see some past themes, check out <a href = "https://github.com/akx/listeningclub/blob/master/vortices.txt">the list</a>.
 
