@@ -4,7 +4,7 @@
 
 Compiling a vortex means, first and foremost, nagging and coercing #listeningclub members to submit. Submit *tracks*, you weirdo. And second, it means assembling those tracks into a (possibly coherent) single MP3 file for playback on the final Sunday of the month.
 
-It’s performative art. It’s project management. It’s attention to detail.
+It’s performance art. It’s project management. It’s attention to detail.
 
 The starting point for a round of LC vortex is a musical theme for those submitted tracks. You inherit the theme that last month’s compiler prompted the LC masses to invent and agree on. Theme prompting becomes your job, before all’s said and done, in prep for the vortex after yours.
 
